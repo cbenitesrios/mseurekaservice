@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: configeureka
+  cloud:
+    config:
+      uri: http://localhost:8081
+      username: carlos
+      password: carlos
