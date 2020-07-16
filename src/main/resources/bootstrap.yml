@@ -1,6 +1,6 @@
 spring:
   application:
-    name: configeureka
+    name: eurekaservice
   cloud:
     config:
       uri: http://localhost:8081
